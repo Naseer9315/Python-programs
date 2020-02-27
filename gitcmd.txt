@@ -1,0 +1,20 @@
+-->first create a folder in directory
+   -->cd D:
+   -->mkdir problemsolving
+   -->cd problemsolving andprogramming
+   -->touch  file.txt
+   -->echo "data to be filed"> file.txt
+   -->echo "data to be filled second time">> file.txt
+   -->cat file.txt
+  -->git init
+  -->ls -a will show the hidden folders and files
+   -->git status
+   -->git commit -m "firstcommit"
+  --> git config --global user.email "email id"
+  -->git config --global user.name "ur name"
+   -->git add file.txt
+   -->git remote add file.txt Url
+  -->git status
+ -->git pull -u
+  -->git pull file.txt master
+  -->git push -f --set-upstream file.txt master
