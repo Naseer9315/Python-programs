@@ -13,8 +13,12 @@
   --> git config --global user.email "email id"
   -->git config --global user.name "ur name"
    -->git add file.txt
+   -->git add *.(file extensions)(multiple files)
    -->git remote add file.txt Url
   -->git status
+--> git push -u(repository name)master
+-->user name password
+-->git push -f --set-upstream(repository name)master
  -->git pull -u
   -->git pull file.txt master
   -->git push -f --set-upstream file.txt master
